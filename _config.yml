@@ -1,5 +1,5 @@
 ### Site Settings ###
-title               : portfolYOU
+title               : sarangHein's blog
 description         : >-
                       I turn coffee :coffee: into code,
                       use tabs over spaces
@@ -25,13 +25,13 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : John Doe
+  name              : Lee Hae In
   image             : https://i.imgur.com/uyDNQnn.jpg
-  behance           : your_username
+  behance           : saranghein #your_username
 # dribbble          : your_username
-  email             : username@domain.com
+  email             : saranghein@gmail.com #username@domain.com
   facebook          : your_username
-  github            : your_username
+  github            : saranghein #your_username
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
