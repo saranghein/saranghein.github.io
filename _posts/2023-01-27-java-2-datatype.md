@@ -196,7 +196,7 @@ true or false
 
 ## 정수 리터럴
 
-![Untitled 1](https://user-images.githubusercontent.com/98319061/215016030-3267aa8f-dd7e-4942-b1c7-ac19e8705e6e.png)
+![Untitled1](https://user-images.githubusercontent.com/98319061/215017656-d348d8b4-7023-4a45-b1a5-a0816d1a2bb4.png)
 
 - 리터럴(literal)
 소스코드에서 코정딘 값을 표현하는 방식
@@ -254,7 +254,7 @@ true, false는 1, 0으로 인식하지 않음
 - 접두어 ‘`\u`’를 써서 유니코드를 직접입력 가능
 \u0061
 
-![Untitled 2](https://user-images.githubusercontent.com/98319061/215016032-77a35806-f717-46c2-8b32-74b11cdfd1f8.png)
+![Untitled2](https://user-images.githubusercontent.com/98319061/215017660-4fedf268-148a-4786-bb19-f432a0cbfabe.png)
 
 ---
 
@@ -510,4 +510,4 @@ b=(byte)(b*2);//수정
     twoD[3] = new int[4];
     ```
     
-![Untitled 3](https://user-images.githubusercontent.com/98319061/215016033-f3f73b38-70cb-4197-8bbd-0f4583b5a8dc.png)
+![Untitled3](https://user-images.githubusercontent.com/98319061/215017662-29ddb7f0-6245-4fa6-a5f5-cb1977afa1b9.png)
