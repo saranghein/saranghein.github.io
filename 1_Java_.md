@@ -1,3 +1,7 @@
+---
+title: Home
+layout: home
+---
 # 1_Java_
 
 # Java의 역사 및 특징
