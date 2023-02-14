@@ -5,4 +5,4 @@ has_children: true
 permalink: /Java/
 ---
 
-# Java 개념
+# Java 개념정리

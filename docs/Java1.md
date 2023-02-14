@@ -1,11 +1,11 @@
 ---
-title: Java 1
+title: 1. Java
 layout: default
 #nav_order: 2
 parent: Java
 ---
 
-# 1_Java_
+# 1. Java
 
 # Java의 역사 및 특징
 
@@ -71,12 +71,12 @@ C with Classes→C++
 - **자바 가상 머신(Java Virtual Machine, JVM)**에서 실행
     - JVM은 자바 런타임 환경(Java Runtime Environment, JRE)의 일부
 
-![Untitled](1_Java_%206b5710f57dc7424c9efa7c0a1898505b/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/98319061/218664314-ce49660b-6b87-44af-b7a6-547cf5bbd39c.png)
 
 - JRE만 있으면 어느 프로그램이든 실행가능(이식성)
 - JVM내에서 실행돼 안전(보안성)→샌드박싱(sandboxing)
 
-![Untitled](1_Java_%206b5710f57dc7424c9efa7c0a1898505b/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/98319061/218664303-fca20713-0e7a-4727-9f4f-c1cd219487c2.png)
 
 - JBM은 바이트코드 해석 후 실행이 요구됨→낮은 성능 이슈
 → JIT(Just-in-time)컴파일러가 JVM에 포함됨→런타임에 바이트코드를 기계어로 해석하여 실행(유튜브에서 미리 영상로딩하는 것처럼)
@@ -94,7 +94,7 @@ C with Classes→C++
         NFTC(No-Fee Terms and Conditions)라이센스 적용
         
 
-![Untitled](1_Java_%206b5710f57dc7424c9efa7c0a1898505b/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/98319061/218664308-b7075e8a-cf77-4096-9862-301ef23152cb.png)
 
 ## Java applet
 
@@ -116,7 +116,7 @@ C with Classes→C++
 - Java 1.5부터 대규모 업데이트(제네릭, 어노테이션, 오토박싱, 열거형, for-each 등)→ Java 5로 개명
 - Java10부터 6개월 단위로 업데이트
 
-![Java 릴리즈 히스토리](1_Java_%206b5710f57dc7424c9efa7c0a1898505b/Untitled%203.png)
+![Java 릴리즈 히스토리](https://user-images.githubusercontent.com/98319061/218664310-3b1d0218-3801-4e98-b220-c9371de1acb8.png)
 
 Java 릴리즈 히스토리
 
@@ -438,7 +438,7 @@ class BlockTest {
 
 - java는 67개의 키워드를 정의
 
-![Untitled](1_Java_%206b5710f57dc7424c9efa7c0a1898505b/Untitled%204.png)
+![Untitled 4](https://user-images.githubusercontent.com/98319061/218664312-02457e53-a1db-4a22-9bc8-929a7918554a.png)
 
 ---
 
