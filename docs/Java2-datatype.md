@@ -3,7 +3,7 @@ title: 2. Data type
 layout: default
 #nav_order: 2
 parent: Java
-permalink: /1.Java/
+#permalink: /1.Java/
 ---
 
 # 2_datatype
