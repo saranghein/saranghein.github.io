@@ -50,7 +50,7 @@ C with Classes→C++
 ## Java의 등장
 
 - 1991년 James Gosling을 필두로 한 Sun Microsystems*의 연구원들이 개발
-*2009년 Oracle이 인수
+  - *2009년 Oracle이 인수
 - Oak → java(1995년)
 - 플랫폼 독립적(paltform independent)언어로 개발(본래 가전제품 컨트롤러에서 실행되는)
   - 당시에는 가전제품 하드웨어 칩의 성능 이슈로 시기상조
