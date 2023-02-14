@@ -3,6 +3,7 @@ title: 1. Java
 layout: default
 #nav_order: 2
 parent: Java
+permalink: /1.Java/
 ---
 
 # 1. Java
