@@ -1,5 +1,5 @@
 ---
-title: 1. Data type
+title: 2. Data type
 layout: default
 #nav_order: 2
 parent: Java
@@ -491,7 +491,7 @@ b=(byte)(b*2);//수정
     ```
     
 
-`타입[][]배열이름={{...},{...},...};`
+`타입[][]배열이름={% raw %}{{...},{...},...}; {% endraw %}`
 
 - 선언과 동시에 초기화
 - `new`연산자 불필요
