@@ -178,7 +178,7 @@ byte, short, int, long
 <summary>EX</summary>
 <div markdown="1">
     
-    ```java
+```java
     class BoolTest {
     	public static void main(String[] args) {
     		boolean b;
@@ -196,7 +196,7 @@ byte, short, int, long
     		//>>> 10 > 9 is true(조건식의 결과는 boolean으로 출력됨
     	}
     }
-    ```
+```
 </div>
 </details>
 
