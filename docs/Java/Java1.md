@@ -13,23 +13,25 @@ parent: Java
 >2. [객체지향프로그래밍](#객체지향프로그래밍) <br>
 >3. [Java 기본문법](#java-기본문법)<br>
 
+<br>
+
 # Java의 역사 및 특징
 
 > Java
-> 
+
     객체지향, 클래스 기반, 플랫폼 독립적 프로그래밍
     Write Once Run Anywhere(WORA)
     C → C++ → Java
 
 
 > C
-> 
+
     1970년대 Dennis Ritchie에 의해 개발
     프로그래머 친화적인 structed programming(if/then/else, while, for)→기존 BASIC, COBOL, FORTRAN등의 복잡성 해결
     BUT 여전히 프로그램 크기가 커질 때 복잡해지는 문제발생
 
 > C++
-> 
+
     1979년 Bjarne Stroustrup에 의해 개발
     C with Classes → C++
     기존언어 + 객체지향프로그래밍 특성
@@ -66,7 +68,6 @@ parent: Java
 {: .highlight }
 >💡 C, C++코드가 기계어로 컴파일 되는 것과 대비
 
-</aside>
 
 - java코드는 컴파일 시 중간언어인 **바이트코드(bytecode)**로 변환
 - **자바 가상 머신(Java Virtual Machine, JVM)**에서 실행
@@ -105,10 +106,12 @@ parent: Java
 →2017년 Java9부터 퇴출됨
 
 ## Java servlet
+<p align="center">
 
 | applet | servlet |
 | --- | --- |
 | 클라이언트 프로그램 | 서버 프로그램 |
+</p>
 
 - 데이터베이스 등과 연동하여 클라이언트 요청처리
 - JRE를 지원하는 모든 서버에서 실행가능
@@ -194,6 +197,7 @@ C++보다 더 객체지향적
     - 데이터에 따라 적용할 구현체를 JIT컴파일러가 알아서 선택
 
 ---
+<br>
 
 # Java 기본문법
 
@@ -218,10 +222,13 @@ public static void main(String [] args) {
 - 프로그램에 대한 설명 기록
 - 컴파일 대상에서 제외됨
 
+<p align="center">
+
 | 주석 | 코드 |
 | --- | --- |
 | 다수라인주석 | /* … */ |
 | 단일라인주석 | // |
+</p>
 
 ### `public static void main(String [] args) {`
 
@@ -240,8 +247,8 @@ public static void main(String [] args) {
 
 - 접근제어자(access modifier)를 의미, 클래스 멤버의 접근성 결정
     
-    <aside>
-    💡 className도 인자
+{: .highlight }
+>    💡 className도 인자
     
     </aside>
 
