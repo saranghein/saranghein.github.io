@@ -174,7 +174,9 @@ byte, short, int, long
 - if 또는 for문 등의 조건식에서 사용
     - 결과에 따라 실행흐름 결정
     - 조건식의 결과도 boolean타입으로 표현됨
-- EX
+<details>
+<summary>EX</summary>
+<div markdown="1">
     
     ```java
     class BoolTest {
@@ -195,7 +197,9 @@ byte, short, int, long
     	}
     }
     ```
-    
+</div>
+</details>
+
 
 ---
 
