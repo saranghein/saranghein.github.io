@@ -106,12 +106,12 @@ parent: Java
 →2017년 Java9부터 퇴출됨
 
 ## Java servlet
-<p align="center">
 
+{: .text-center}
 | applet | servlet |
 | --- | --- |
 | 클라이언트 프로그램 | 서버 프로그램 |
-</p>
+
 
 - 데이터베이스 등과 연동하여 클라이언트 요청처리
 - JRE를 지원하는 모든 서버에서 실행가능
@@ -222,13 +222,12 @@ public static void main(String [] args) {
 - 프로그램에 대한 설명 기록
 - 컴파일 대상에서 제외됨
 
-<p align="center">
-
+{: .text-center}
 | 주석 | 코드 |
 | --- | --- |
 | 다수라인주석 | /* … */ |
 | 단일라인주석 | // |
-</p>
+
 
 ### `public static void main(String [] args) {`
 
@@ -250,8 +249,7 @@ public static void main(String [] args) {
 {: .highlight }
 >    💡 className도 인자
     
-    </aside>
-
+{: .text-center}
 | 접근 제어자 | 설명 |  
 | --- | --- |
 | public | 외부의 접근 허용 |
