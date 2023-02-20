@@ -146,7 +146,7 @@ parent: Java
     
 - 2의 배수만큼 곱셈/나눗셈 필요시 자주 사용됨
 
-{: .highlight}
+{: .highlight }
 💡 최상위비트가 변할 시 부호도 변함
 
 
@@ -276,7 +276,7 @@ a >> b + 3;//a를 (b+3)만큼 오른쪽 시프트
 조건식에는 비교 연산식, 변수, 논리값 가능
 - 중첩된 if 문: if문을 다른 if문 안에 포함시킬 수 있음
 
-{: .highlight}
+{: .highlight }
 💡 else는 가장 가까운 if와 매칭됨에 주의
 
 
@@ -388,8 +388,8 @@ else
 - 반복문에서 나머지 실행문을 스킵할 때 사용
 - continue가 실행되면 조건식 검사로 넘어감
 
-{: .important}
-for문은 조건식이 아닌 증감식으로 넘어간다.
+{: .important }
+💡for문은 조건식이 아닌 증감식으로 넘어간다.
 
 
 ![Untitled 1](https://user-images.githubusercontent.com/98319061/220035566-39c4c052-1cad-41d4-aba0-227badf86eba.png)
