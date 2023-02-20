@@ -29,10 +29,10 @@ parent: Java
 - 숫자, 문자, 논리 등 기초(primitive)연산에 필요
 - 단일값만을 나타냄
     - 오브젝트X
-    - 기초타입ㅇ르 오브젝트로 나타낼 시 성능 저하 이슈
+    - 기초타입ㅇ르 오브젝트로 나타낼 시 성능 저하 이슈<br>
     (클래스로 나타내면 쓸데없이 무거워지기만 함)
 - 기초타입값의 범위는 고정적
-    - 하드웨어 아키텍처에 의존적이지 않음
+    - 하드웨어 아키텍처에 의존적이지 않음 <br>
     (int 타입의 크기는 항상 32 bit)
 - Java는 8개의 기초타입
     
@@ -77,9 +77,11 @@ byte, short, int, long
 - 64비트 크기 $-(2^{64})$~$+(2^{64}-1)$의 범위
 - int타입으로는 표현할 수 없는 큰 숫자를 나타낼 때 사용
 - 변수는 long키워드를 사용
-- EX
+<details>
+<summary>EX</summary>
+<div markdown="1">
     
-    ```java
+```java
     class Light {
     	public static void main(String[] args) {
     		int lightspeed;
@@ -96,8 +98,9 @@ byte, short, int, long
     		System.out.println(distance + " miles.");
     	}
     }
-    ```
-    
+```
+</div>
+</details>
 
 ---
 
@@ -122,9 +125,11 @@ byte, short, int, long
 
 - 64비트의 크기의 배정밀도(Double-precision)숫자
 - `sin()`, `cos()` 등 대부분 math 클래스 메서드의 리턴 타입
-- EX
+<details>
+<summary>EX</summary>
+<div markdown="1">
     
-    ```java
+```java
     class Area {
     	public static void main(String[] args) {
     		double pi, r, a;
@@ -134,8 +139,9 @@ byte, short, int, long
     		System.out.println("Area of circle is " + a);
     	}
     }
-    ```
-    
+```
+</div>
+</details>
 
 ---
 
@@ -148,9 +154,11 @@ byte, short, int, long
     - 유니코드를 위해 16비트 길이 사용
     - 0~65,535범위의 정수
     - 정수형 연산에도 사용가능
-- EX
+<details>
+<summary>EX</summary>
+<div markdown="1">
     
-    ```java
+```java
     class CharDemo {
     	public static void main(String[] args) {
     		char ch1, ch2;
@@ -162,8 +170,9 @@ byte, short, int, long
     }
     //X Y 출력
     //88은 아스키코드면서 유니코드
-    ```
-    
+```
+</div>
+</details>
 
 ---
 
@@ -212,7 +221,6 @@ byte, short, int, long
 소스코드에서 코정딘 값을 표현하는 방식
 - 리터럴의 진법(base)은 접두어(prefix)를 이용
     
-    
     | 진수 | 접두어 |
     | --- | --- |
     | 10진수(decimal) | 아무 접두어가 없는 숫자는 10진수로 인식됨 |
@@ -223,7 +231,7 @@ byte, short, int, long
     - byte, short 변수에 할당 → 값 범위 내면 가능(`short num=(short)21;`)
     - long변수에 할당 → 모든 정수 리터럴 가능
 - long타입 리터럴
-    - 접미어 `l` or `L`로 명시적 표기 가능
+    - 접미어 `l` or `L`로 명시적 표기 가능 <br>
     0x7….L
 - 언더바(underbar)
     - 정수 리터럴은 언더바 포함 가능
@@ -241,7 +249,7 @@ byte, short, int, long
     - 접미어 `E` or `e` 에 지수를 10진수로 표기
     - 6.022E23, 314158E-05
 - 부동소수점 리터럴은 기본적으로 double타입으로 인식
-double이 더 정확하므로
+(double이 더 정확하므로)
 - float리터럴은 `F` or `f` 접미어를 붙여서 표기
 - double리터럴도 `D` or `d` 접미어로 명시적 표기 가능
 
@@ -250,7 +258,7 @@ double이 더 정확하므로
 ## 논리 리터럴
 
 - true, false 두가지 리터럴
-- 숫자 표현으로 변환되지 않음
+- 숫자 표현으로 변환되지 않음<br>
 true, false는 1, 0으로 인식하지 않음
 
 ---
@@ -271,13 +279,13 @@ true, false는 1, 0으로 인식하지 않음
 
 ## 문자열 리터럴
 
-- 문자열(string)리터럴은 쌍따옴표(`” ”`)로 표기
-”Hello World”
+- 문자열(string)리터럴은 쌍따옴표(`” ”`)로 표기<br>
+`"Hello World"`
 - 같은 행(line)에 있는 문자들만 같은 문자열로 인식
 - 각 문자열은 오브젝트로 인식됨
     - C와 같이 문자들의 배열(array)로 취급되지 않음
 - Java에서 문자열은 기초타입이 아닌 오브젝트
-    - String클래스를 이용하여 문자열 선언 가능
+    - String클래스를 이용하여 문자열 선언 가능 <br>
     `String str=”this is a test”;`
 
 ---
@@ -291,7 +299,7 @@ true, false는 1, 0으로 인식하지 않음
 - 변수 선언 시 연산에 의한 동적 초기화 가능
 `double c= Math.sqrt(a*a+b*b);`
 
----
+
 
 ## 변수의 스코프와 라이프타임
 
@@ -300,7 +308,7 @@ true, false는 1, 0으로 인식하지 않음
 - 변수의 유효 범위 또는 영역
 - 스코프에 따라 변수의 라이프타임(lifetime)결정
 - 변수의 스코프는 블록단위로 결정됨
-    - 블록은 중괄호( {  } )로 정의
+    - 블록은 중괄호( `{  }` )로 정의
 - 블록 내에서 정의된 변수는 지역변수(local variable)
     - 지역변수는 블록 외부에서 접근할 수 없음
 - Java 는 어느 블록에서는 변수 선언 허용(C99문법과 유사)
@@ -341,17 +349,16 @@ true, false는 1, 0으로 인식하지 않음
     ```
     
 - 동일한 변수명을 중첩된 블록에서 선언 불가
-
-```java
-public static void main(String[] args) {
-	**int bar = 1;**
-	{ // creates a new scope
-	**int bar = 2;**
-	// Compile time error -- bar already defined!
-	//bar변수가 재선언 되어 컴파일 에러 발생
-	}
-}
-```
+    ```java
+    public static void main(String[] args) {
+	    **int bar = 1;**
+	    { // creates a new scope
+	    **int bar = 2;**
+	    // Compile time error -- bar already defined!
+	    //bar변수가 재선언 되어 컴파일 에러 발생
+	    }
+    }
+    ```
 
 ---
 
@@ -512,13 +519,11 @@ b=(byte)(b*2);//수정
 
 - 각 행의 길이가 다른 2차원 배열 생성 가능
     - 메모리를 최적화하여 사용할 때 유용
-    
-    ```cpp
-    int[][] twoD = new int[4][];
-    twoD[0] = new int[1];
-    twoD[1] = new int[2];
-    twoD[2] = new int[3];
-    twoD[3] = new int[4];
-    ```
-    
-    ![Untitled 3](https://user-images.githubusercontent.com/98319061/218668210-65b6d4eb-3f55-4d33-8ad1-d642fd627e07.png)
+        ```cpp
+        int[][] twoD = new int[4][];
+        twoD[0] = new int[1];
+        twoD[1] = new int[2];
+        twoD[2] = new int[3];
+        twoD[3] = new int[4];
+        ```
+        ![Untitled 3](https://user-images.githubusercontent.com/98319061/218668210-65b6d4eb-3f55-4d33-8ad1-d642fd627e07.png)
