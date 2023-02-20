@@ -36,7 +36,7 @@ parent: Java
     1980s~1990초 객체지향프로그래밍 언어로 널리 사용
 
 {: .highlight }
-💡 C, C++는 코드를 특정 CPU타겟에 맞춰 컴파일필요
+>💡 C, C++는 코드를 특정 CPU타겟에 맞춰 컴파일필요
     → 모든 CPU에 대해 컴파일러를 만들면 개발자에게 많은 비용과 시간을 요구
 
 
@@ -64,7 +64,7 @@ parent: Java
 ## Java의 동작원리
 
 {: .highlight }
-💡 C, C++코드가 기계어로 컴파일 되는 것과 대비
+>💡 C, C++코드가 기계어로 컴파일 되는 것과 대비
 
 </aside>
 
@@ -126,32 +126,21 @@ parent: Java
 ## Java Buzzwords
 
 > 간단함(simple)
-> 
 프로그래머 친화적
 
-> 견고함(robust)
-> 
-
+> 견고함(robust) 
 메모리 오류로부터 안전
 
 > 멀티쓰레드 지원(multithreaded)
-> 
-
 병렬처리 구현이 쉬움
 
 > 고성능(high-performance)
-> 
-
 JIT컴파일러로 성능 최적화
 
 > 분산(distributed)
-> 
-
 분산 네트워크 환경에 친화적
 
 > 객체지향적(object-oriented)
-> 
-
 C++보다 더 객체지향적
 
 ---
