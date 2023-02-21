@@ -3,7 +3,7 @@ title: Java
 layout: default
 has_children: true
 permalink: /Java/
-{{ page.last_modified_date }}
+last_modified_date: true
 ---
 
 # Java 개념정리
