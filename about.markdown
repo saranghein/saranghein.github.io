@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-<h1 style="text-align:center">About Me</h3>
+<h1 style="text-align:center">About Me</h1>
 
 <br>
 
-<h2 style="text-align:center">Skill</h3>
+<h2 style="text-align:center">Skill</h2>
 
 ---
 <p style="padding:10px;text-align:center">
