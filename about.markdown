@@ -28,13 +28,13 @@ permalink: /about/
 <h2 style="text-align:center">Education</h2>
 
 ---
-<div style="display:inline;float:left;margin:5px;">
+<div style="display:inline-block;float:left;padding:5px 100px 5px 5px;">
     <h2 style="font-weight: bold;">Kwanagwon University</h2>
     <div> School of Computer Science and Engineering<br>
         <div style="font-weight:100">2021~ </div>
     </div>
 </div>
-<div style="display:inline; padding-left:100px">
+<div style="display:inline-block;">
     <img width="300px" src="https://user-images.githubusercontent.com/98319061/220850257-187c2843-3910-4a69-baad-6fc4f72de85a.png">
 </div>
 
