@@ -19,23 +19,23 @@ parent: Java
 
 > Java
 
-    객체지향, 클래스 기반, 플랫폼 독립적 프로그래밍
-    Write Once Run Anywhere(WORA)
-    C → C++ → Java
+객체지향, 클래스 기반, 플랫폼 독립적 프로그래밍<br>
+Write Once Run Anywhere(WORA)<br>
+C → C++ → Java
 
 
 > C
 
-    1970년대 Dennis Ritchie에 의해 개발
-    프로그래머 친화적인 structed programming(if/then/else, while, for)→기존 BASIC, COBOL, FORTRAN등의 복잡성 해결
-    BUT 여전히 프로그램 크기가 커질 때 복잡해지는 문제발생
+1970년대 Dennis Ritchie에 의해 개발<br>
+프로그래머 친화적인 structed programming(if/then/else, while, for)→기존 BASIC, COBOL, FORTRAN등의 복잡성 해결<br>
+BUT 여전히 프로그램 크기가 커질 때 복잡해지는 문제발생
 
 > C++
 
-    1979년 Bjarne Stroustrup에 의해 개발
-    C with Classes → C++
-    기존언어 + 객체지향프로그래밍 특성
-    1980s~1990초 객체지향프로그래밍 언어로 널리 사용
+1979년 Bjarne Stroustrup에 의해 개발<br>
+C with Classes → C++<br>
+기존언어 + 객체지향프로그래밍 특성<br>
+1980s~1990초 객체지향프로그래밍 언어로 널리 사용
 
 {: .highlight }
 >💡 C, C++는 코드를 특정 CPU타겟에 맞춰 컴파일필요
