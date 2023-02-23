@@ -36,4 +36,7 @@ permalink: /about/
 </div>
 <div style="float:right" width="300px">
 <img width="300px" src="https://user-images.githubusercontent.com/98319061/220850257-187c2843-3910-4a69-baad-6fc4f72de85a.png"/>
+
+
+
 </div> <br>
