@@ -29,11 +29,11 @@ permalink: /about/
 
 ---
 
-<div style="float:left;">
+<div style="float:left;" width="300px">
     <h2 style="font-weight: bold;">Kwanagwon University</h2>
     School of Computer Science and Engineering<br>
-    <span style="font-weight:100">2021~ </span>
+    <div style="font-weight:100">2021~ </div>
 </div>
-<div style="float:right">
+<div style="float:right" width="300px">
 <img width="300px" src="https://user-images.githubusercontent.com/98319061/220850257-187c2843-3910-4a69-baad-6fc4f72de85a.png"/>
 </div> <br>
