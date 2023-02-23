@@ -22,7 +22,7 @@ permalink: /about/
 <img style="height:200px;padding-left:15px;paddding-right:15px"src="https://user-images.githubusercontent.com/98319061/220844289-8ccfd987-3384-441f-8927-35fc9b62d151.png"></img>
 </p>
 <br>
-<h2 align="center">Education</h2>
+<h2 style="text-align:center">Education</h2>
 
 ---
 <div style="float:left;width:400px">
