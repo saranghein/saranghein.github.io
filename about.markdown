@@ -18,11 +18,11 @@ permalink: /about/
 </p>
 <p style="padding:10px;text-align:center">
 <img style="height: 200px;"src="https://user-images.githubusercontent.com/98319061/220843013-4f9010ac-d0cb-49d6-b42e-b429e538d79b.png"></img>
-<img style="padding-left:30px;padding-right:30px;height: 200px;"src="https://user-images.githubusercontent.com/98319061/220843630-512c03ea-ac76-4386-b3e5-b9f6aa2dc419.png">
-<img style="height:200px;padding-left:15px;paddding-right:15px"src="https://user-images.githubusercontent.com/98319061/220844289-8ccfd987-3384-441f-8927-35fc9b62d151.png">
+<img style="padding-left:30px;padding-right:30px;height: 200px;"src="https://user-images.githubusercontent.com/98319061/220843630-512c03ea-ac76-4386-b3e5-b9f6aa2dc419.png"></img>
+<img style="height:200px;padding-left:15px;paddding-right:15px"src="https://user-images.githubusercontent.com/98319061/220844289-8ccfd987-3384-441f-8927-35fc9b62d151.png"></img>
 </p>
 <br>
-<h2 align="center">Education</h3>
+<h2 align="center">Education</h2>
 
 ---
 <div style="float:left;width:400px">
@@ -31,5 +31,5 @@ permalink: /about/
     <span style="font-weight:100">2021~ </span>
 </div>
 <div style="float:left">
-<img style="display:inline;width:350px;"src="https://user-images.githubusercontent.com/98319061/220850257-187c2843-3910-4a69-baad-6fc4f72de85a.png">
+<img style="display:inline;width:350px;"src="https://user-images.githubusercontent.com/98319061/220850257-187c2843-3910-4a69-baad-6fc4f72de85a.png"></img>
 </div>
