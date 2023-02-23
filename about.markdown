@@ -29,7 +29,7 @@ permalink: /about/
 
 ---
 <div style="display:inline-block;float:left;padding:5px 100px 5px 5px;">
-    <h2 style="font-weight: bold;">Kwanagwon University</h2>
+    <h2 style="font-weight: bold;margin-top:6px">Kwanagwon University</h2>
     <div> School of Computer Science and Engineering<br>
         <div style="font-weight:100">2021~ </div>
     </div>
@@ -39,3 +39,4 @@ permalink: /about/
 </div>
 
 
+---
