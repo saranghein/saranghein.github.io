@@ -29,7 +29,8 @@ parent: Java
     - 경량 프로세스
     - 스레드 간 자원을 공유
     
-    ![Untitled](7_thread%2035deece598b34cd1a3a5d61a0f9b64c9/Untitled.png)
+    	![Untitled](https://user-images.githubusercontent.com/98319061/221091796-0fb56b7d-d8a0-4fd2-9f29-eb9cd9f38557.png)
+
     
 
 ## 멀티 태스킹(multitasking)
