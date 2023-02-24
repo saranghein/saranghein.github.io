@@ -6,7 +6,7 @@ parent: Java
 #permalink: /1.Java/
 ---
 
-# 4_inheritance_package
+# 5_inheritance_package
 
 ## 상속(inheritance)
 

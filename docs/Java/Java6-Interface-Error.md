@@ -6,7 +6,7 @@ parent: Java
 #permalink: /1.Java/
 ---
 
-# 5_interface_error
+# 6_interface_error
 
 # 인터페이스
 
