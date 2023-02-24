@@ -443,3 +443,13 @@ class BlockTest {
 - EX의 `println()`, `print()` 은 빌트인 메서드
     - `System.out`을 통해 사용가능
     - System은 Java프로그램에 자동으로 포함되는 표준 클래스
+
+
+<script src="https://utteranc.es/client.js"
+        repo="saranghein/saranghein.github.io"
+        issue-term="url"
+        label="✨💬✨"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
