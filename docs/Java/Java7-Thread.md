@@ -728,3 +728,13 @@ class Deadlock implements Runnable {
 | void stop() | 스레드 종료 |
 | void suspend() | 스레드 중지 |
 | static void yield() | 우선순위가 동일한 스레드에 실행을 양보 |
+
+---
+<script src="https://utteranc.es/client.js"
+        repo="saranghein/saranghein.github.io"
+        issue-term="url"
+        label="✨💬✨"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

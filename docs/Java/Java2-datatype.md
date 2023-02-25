@@ -527,3 +527,13 @@ b=(byte)(b*2);//수정
         twoD[3] = new int[4];
         ```
         ![Untitled 3](https://user-images.githubusercontent.com/98319061/218668210-65b6d4eb-3f55-4d33-8ad1-d642fd627e07.png)
+
+---
+<script src="https://utteranc.es/client.js"
+        repo="saranghein/saranghein.github.io"
+        issue-term="url"
+        label="✨💬✨"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
